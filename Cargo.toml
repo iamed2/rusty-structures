@@ -1,0 +1,6 @@
+[package]
+name = "rusty-structures"
+version = "0.1.0"
+authors = ["Eric Davies <iamed2@gmail.com>"]
+
+[dependencies]
